@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Toaster, toast } from 'react-hot-toast';
 import { AlertTriangle } from 'lucide-react';
 import { AlertForm } from './components/AlertForm';
