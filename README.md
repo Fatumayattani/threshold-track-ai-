@@ -2,7 +2,8 @@
 
 ## Overview
 
-Threshold Track AI is a cutting-edge project designed to monitor and analyze threshold levels in various systems using artificial intelligence. This project aims to provide real-time insights and alerts to help maintain optimal performance and prevent potential issues.
+Threshold Track is a simple and intuitive application for monitoring cryptocurrency prices in real-time. Users can set custom price thresholds and receive alerts when the price of a selected cryptocurrency crosses their defined boundaries.
+
 
 ## Features
 
